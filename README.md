@@ -1,2 +1,0 @@
-# cardflipperpro
-Sports Card Grader 
